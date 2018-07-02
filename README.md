@@ -1,5 +1,12 @@
 # sparta-rock-paper-scissors
 
+## Rock Paper Scissors in JavaScript
+
+This involved putting together a number of newly learnt elements.
+
+### Future Additions
+
+I would like to add additional features to the game including a way to alert and continue if there is an incorrect input from the user, and a way to go straight into a rematch once the game has finished.
 
 ----------
 ## Brief
